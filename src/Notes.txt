@@ -1,0 +1,6 @@
+npm install @material-ui/core @material-ui/icons
+import SearchIcon from "@material-ui/icons/Search";
+
+context API
+splice
+reduce
